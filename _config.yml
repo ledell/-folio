@@ -27,5 +27,5 @@ collections:
     permalink: /poetry/:path/
   code:
     output: true
-    permalink: /poetry/:code/
+    permalink: /code/:path/
 
