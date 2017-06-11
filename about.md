@@ -7,23 +7,23 @@ permalink: /about/
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
-Write your biography here. Tell the world about yourself. Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder. 
+Currently I am working as a Statistician and Machine Learning Scientist at <a href="http://h2o.ai/">H2O.ai</a>, the company behind the open source machine learning software, <a href="https://github.com/h2oai/h2o-3">H2O</a>.
 
-Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them. 
+I received my Ph.D. in Biostatistics with a Designated Emphasis in Computational Science and Engineering from UC Berkeley. I have a B.S. and M.A. in Mathematics and have worked for many years in industry as a software developer and data scientist. My research focuses on ensemble machine learning, learning from imbalanced binary-outcome data, influence curve based variance estimation and statistical computing.
 
+My dissertation is titled, <a href="http://www.stat.berkeley.edu/~ledell/papers/ledell-phd-thesis.pdf"> "Scalable Ensemble Learning and Computationally Efficient Variance Estimation"</a> and was awarded the 2015 Erich L. Lehmann Citation by the UC Berkeley Department of Statistics.  At Berkeley, I was co-advised by <a href="http://www.stat.berkeley.edu/~laan/Laan/laan.html">Mark J. van der Laan</a> and <a href="http://www.sph.berkeley.edu/maya-petersen">Maya L. Petersen</a>.
 
 <br/>
 <hr/>
 <br/>
 <span class="contacticon center">
-	<a href="mailto:you@example.com"><i class="fa fa-envelope-square"></i></a>
-	<a href="https://github.com" target="_blank"><i class="fa fa-github-square"></i></a>
-	<a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>
-	<a href="http://tumblr.com" target="_blank"><i class="fa fa-tumblr-square"></i></a>
-	<a href="https://twitter.com" target="_blank"><i class="fa fa-twitter-square"></i></a>
+	<a href="mailto:oss@ledell.org"><i class="fa fa-envelope-square"></i></a>
+	<a href="https://github.com/ledell" target="_blank"><i class="fa fa-github-square"></i></a>
+		<a href="https://stackoverflow.com/users/5451344/erin-ledell" target="_blank"><i class="fa fa-stack-overflow"></i></a>
+	<a href="https://twitter.com/ledell" target="_blank"><i class="fa fa-twitter-square"></i></a>
 </span>
 
 <div class="col three caption">
-	You can even add a little note about which of these is the best way to reach you.
+	The best way to reach me is via email or Twitter.
 </div>
 
