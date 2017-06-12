@@ -19,7 +19,7 @@ My dissertation is titled, <a href="http://www.stat.berkeley.edu/~ledell/papers/
 <span class="contacticon center">
 	<a href="mailto:oss@ledell.org"><i class="fa fa-envelope-square"></i></a>
 	<a href="https://github.com/ledell" target="_blank"><i class="fa fa-github-square"></i></a>
-		<a href="https://stackoverflow.com/users/5451344/erin-ledell" target="_blank"><i class="fa fa-stack-overflow"></i></a>
+		<a href="https://stackoverflow.com/users/5451344/erin-ledell?tab=profile" target="_blank"><i class="fa fa-stack-overflow"></i></a>
 	<a href="https://twitter.com/ledell" target="_blank"><i class="fa fa-twitter-square"></i></a>
 </span>
 
