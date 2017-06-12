@@ -1,48 +1,14 @@
 ---
 layout: post
-title: Soliloquy Of The Solipsist
+title: example doc 2
 date: 2015-07-06 07:59:00
 ---
-I?    
-I walk alone;    
-The midnight street    
-Spins itself from under my feet;    
-When my eyes shut    
-These dreaming houses all snuff out;    
-Through a whim of mine    
-Over gables the moon's celestial onion    
-Hangs high.    
-    
-I    
-Make houses shrink    
-And trees diminish    
-By going far; my look's leash    
-Dangles the puppet-people    
-Who, unaware how they dwindle,    
-Laugh, kiss, get drunk,    
-Nor guess that if I choose to blink    
-They die.    
-    
-I    
-When in good humor,    
-Give grass its green    
-Blazon sky blue, and endow the sun    
-With gold;    
-Yet, in my wintriest moods, I hold    
-Absolute power    
-To boycott any color and forbid any flower    
-To be.    
-    
-I    
-Know you appear    
-Vivid at my side,    
-Denying you sprang out of my head,    
-Claiming you feel    
-Love fiery enough to prove flesh real,    
-Though it's quite clear    
-All you beauty, all your wit, is a gift, my dear,    
-From me.   
 
+Voluptas temporibus ducimus et atque et ipsa nam. Hic odit vero quia facilis quam dignissimos nulla. Dolorem sit molestiae natus tenetur eligendi.
 
-	 
-### Sylvia Plath
+Sit modi quo omnis est ut. Velit voluptatem esse omnis quia et. Cupiditate iste dignissimos quidem sit et laudantium non. Sint esse eos dolorem ipsa odit repudiandae aut. Molestiae libero aspernatur sunt fugiat. Accusamus dolorum aperiam dignissimos et corrupti aliquid.
+
+Cupiditate officiis et eius exercitationem ipsa sit. Est et fugit itaque laborum voluptas consequatur. Quia nihil officiis reprehenderit voluptatem.
+Omnis alias consequatur expedita. Dolorum culpa molestias blanditiis minus assumenda. Voluptatem quo est est doloribus id. Sapiente pariatur explicabo minus assumenda vel sunt et.
+
+Quo est qui et ab laudantium quis pariatur. Voluptas assumenda assumenda deserunt. Veniam expedita non temporibus iure. Aspernatur enim delectus doloribus id repellendus et tempora eaque.
