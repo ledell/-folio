@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /docs/
-title: poetry
-description: Documents
+title: docs
+description: documents
 ---
 
 <ul class="post-list">
