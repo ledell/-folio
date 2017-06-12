@@ -22,6 +22,9 @@ collections:
   portfolio:
     output: true
     permalink: /portfolio/:path/
+  docs:
+    output: true
+    permalink: /docs/:path/    
   code:
     output: true
     permalink: /code/:path/
